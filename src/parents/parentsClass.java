@@ -6,5 +6,6 @@ public class parentsClass {
 	}
 	public void turnOff() {
 		System.out.println("전원을 끕니다");
+		System.exit(0);
 	}
 }
